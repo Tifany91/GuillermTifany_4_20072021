@@ -1069,6 +1069,10 @@ margin-bottom:40px;
 padding:0.3em;
 }
 
+.site-navigation li {
+padding:0.3em;
+}
+
 
 @media (min-width:767px) {
 .col-sm-6 img {
