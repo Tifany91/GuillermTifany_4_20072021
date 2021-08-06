@@ -1096,3 +1096,8 @@ object-fit: cover;
 .p1 {
     font-size: 1.4em;
 }
+
+.col-sm-12 img {
+width:100px;
+height:100px;
+}
