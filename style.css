@@ -1065,8 +1065,14 @@ margin-bottom:40px;
     margin-top:2.5em;
 }
 
+.col-sm-4 ul {
+padding-left: 0;
+}
+
 .col-sm-4 li {
 padding:0.3em;
+
+list-style: none;
 }
 
 .site-navigation li {
